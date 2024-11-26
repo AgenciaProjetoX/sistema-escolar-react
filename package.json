@@ -35,7 +35,7 @@
     "react-toastify": "^8.0.3",
     "react-transition-group": "^4.4.2",
     "react-window": "^1.8.6",
-    "recharts": "^2.1.6",
+    "recharts": "^2.1.14",
     "tui-calendar": "^1.15.2",
     "use-file-picker": "^1.4.2",
     "web-vitals": "^1.1.2"
